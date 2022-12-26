@@ -1,0 +1,11 @@
+python-dotenv
+flask
+requests
+# sqlite3
+# os
+pymssql
+mysql.connector
+pyodbc
+# dotenv
+flask-cors
+# json
